@@ -1,4 +1,4 @@
-# NYC Motor Vehicle Collision: Data Integration, Cleaning and Analysis
+# ETL and Analysis : Motor Vehicle Collision
 
 ## Research question or challenge
 The project aims to investigate and analyze the patterns, causes, and consequences of motor vehicle collisions in New
